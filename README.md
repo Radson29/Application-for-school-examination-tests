@@ -14,9 +14,10 @@ QUIZY to aplikacja desktopowa stworzona z myślą o przeprowadzaniu testów w sz
   - Nauczyciel: dodaje uczniów, tworzy testy, grupy pytań i zarządza ich harmonogramem.
   - Uczeń: rozwiązuje testy i przegląda swoje wyniki.
 
-
+### Diagram przypadków użycia
 ![Diagram przypadków użycia](https://github.com/user-attachments/assets/ef696e80-f8aa-444a-8f65-f525d581e5f5)
-
+### Schemat bazy danych
+![Schemat bazy danych](https://github.com/Radson29/Application-for-conducting-tests-at-school/blob/main/backend/ERD_v2.png)
 
 ---
 
