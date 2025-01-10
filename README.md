@@ -76,7 +76,7 @@ Projekt wykorzystuje następujące technologie:
 - **Spring** - framework do budowy backendu.
 - **React** - biblioteka frontendowa do budowy interfejsu użytkownika.
 - **Tailwind CSS** - framework do stylizacji aplikacji.
-  
+- **JUnit 5** - do testów jednostkowych.
 
 ---
 
