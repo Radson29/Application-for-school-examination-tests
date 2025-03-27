@@ -72,12 +72,12 @@ Kliknij przycisk `Install`, a następnie uruchom aplikację z pulpitu.
 
 Projekt wykorzystuje następujące technologie:
 
-- **Java** - język programowania.
-- **Spring** - framework do budowy backendu.
-- **React** - biblioteka frontendowa do budowy interfejsu użytkownika.
+- **Java** 
+- **Spring boot** 
+- **React** 
 - **Electron JS** - Umożliwia tworzenie aplikacji desktopowych przy użyciu technologii webowych
-- **Tailwind CSS** - framework do stylizacji aplikacji.
-- **JUnit 5** - do testów jednostkowych.
+- **Tailwind CSS** 
+- **JUnit 5**
   
 
 ---
